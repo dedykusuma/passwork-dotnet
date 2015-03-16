@@ -1,0 +1,12 @@
+
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+/TestResults
+*.vspscc
+*.vssscc
+/Web/Web.Debug.config
+/Web/connectionString.Debug.config
+/Web/connectionString.config
+/packages/

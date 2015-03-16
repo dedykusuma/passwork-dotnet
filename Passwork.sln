@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwork.Core", "Passwork.Core\Passwork.Core.csproj", "{9728F8E0-746A-450B-B4A4-F622F0F5439F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{0E1F394F-61F4-46A0-98C9-EE78D8E1D68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9728F8E0-746A-450B-B4A4-F622F0F5439F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9728F8E0-746A-450B-B4A4-F622F0F5439F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9728F8E0-746A-450B-B4A4-F622F0F5439F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9728F8E0-746A-450B-B4A4-F622F0F5439F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1F394F-61F4-46A0-98C9-EE78D8E1D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1F394F-61F4-46A0-98C9-EE78D8E1D68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1F394F-61F4-46A0-98C9-EE78D8E1D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1F394F-61F4-46A0-98C9-EE78D8E1D68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
